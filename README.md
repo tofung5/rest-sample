@@ -1,3 +1,3 @@
 # REST Sample Application
 
-Test application
+Test application for Jenkins integration
